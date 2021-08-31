@@ -29,3 +29,6 @@ __ otr ejemplo texto en negrita__
 ## Incluir imagen
 ###### Imagen de la web https://unsplash.com, que facilita imagenes sin derechos de autor
 ![](https://unsplash.com/photos/7GX5aICb5i4/download?force=true&w=640)
+
+###### Imagen descargada de la web https://unsplash.com, cargada desde este repositorio
+![](smile_cat.png)
