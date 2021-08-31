@@ -57,4 +57,5 @@ __ otr ejemplo texto en negrita__
 ###### Caso negrita
 <strong>Texto en negrita HTML</strong>
 
-###### <img src="img/blue_cat.jpg" alt="Blue cat", width="100">
+###### Incluir imagen
+<img src="img/blue_cat.jpg" alt="Blue cat", width="100">
