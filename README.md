@@ -27,4 +27,4 @@ __ otr ejemplo texto en negrita__
 [Enlace del curso] (https://curso-python-imn.github.io/04-markdown.html)
 
 
-![Imagen mia](Imágenes/caraFELIZ.jpg)
+![Imagen mia](C:\Users\khernandez\Pictures\MiCaricatura.jpg)
