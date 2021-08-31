@@ -31,4 +31,4 @@ __ otr ejemplo texto en negrita__
 ![](https://unsplash.com/photos/7GX5aICb5i4/download?force=true&w=640)
 
 ###### Imagen descargada de la web https://unsplash.com, cargada desde este repositorio
-![](smile_cat.png)
+![](smile_cat.jpg)
