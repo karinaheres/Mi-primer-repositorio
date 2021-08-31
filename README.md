@@ -32,3 +32,14 @@ __ otr ejemplo texto en negrita__
 
 ###### Imagen descargada de la web https://unsplash.com, cargada desde este repositorio
 ![](smile_cat.jpg)
+
+## Listas numerada
+###### con números
+1. Primera
+2. Segunda
+3. Tercera
+
+###### con viñetas
+- Primera
+- Segunda
+- Tercera
