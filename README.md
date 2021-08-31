@@ -38,18 +38,23 @@ __ otr ejemplo texto en negrita__
 ![](img/blue_cat.jpg)
 
 ## Listas numerada
-###### con números
+###### Ejemplo númerodo
 1. Primera
 2. Segunda
 3. Tercera
 
-###### con viñetas
+###### Ejemplo viñetas
 - Primera
 - Segunda
 - Tercera
 
-###### anidada
+###### Ejemplo anidado
 - Primera
     - Primera i
     - Primera ii
-   
+
+# Ejemplos en html
+###### Caso negrita
+<strong>Texto en negrita HTML</strong>
+
+###### <img src="img/blue_cat.jpg" alt="Blue cat", width="100">
