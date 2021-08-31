@@ -33,6 +33,10 @@ __ otr ejemplo texto en negrita__
 ###### Imagen descargada de la web https://unsplash.com, cargada desde este repositorio
 ![](smile_cat.jpg)
 
+###### Imagen descargada de la web https://unsplash.com, cargada desde una carpeta dentro del repositorio
+###### La carpeta se crea con un archivo "borreme.txt" que luego de crear la carpeta se debe borrar
+![](img/blue_cat.jpg)
+
 ## Listas numerada
 ###### con números
 1. Primera
