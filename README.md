@@ -50,6 +50,6 @@ __ otr ejemplo texto en negrita__
 
 ###### anidada
 1.Primera
-    a. Primera i
-    b. Primera ii
+    - Primera i
+    - Primera ii
    
