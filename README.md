@@ -49,7 +49,7 @@ __ otr ejemplo texto en negrita__
 - Tercera
 
 ###### anidada
-1.Primera
+- Primera
     - Primera i
     - Primera ii
    
