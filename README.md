@@ -27,5 +27,5 @@ __ otr ejemplo texto en negrita__
 [Enlace del curso] (https://curso-python-imn.github.io/04-markdown.html)
 
 ## Incluir imagen
-###### usando imagenes de la web https://unsplash.com
+###### Imagen de la web https://unsplash.com, que facilita imagenes sin derechos de autor
 ![](https://unsplash.com/photos/7GX5aICb5i4/download?force=true&w=640)
